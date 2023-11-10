@@ -1,0 +1,147 @@
+---
+title: RSE Meetup 21.09.2023
+subtitle: <img src="./images/announcement_web.svg" style="width:85%;"/>
+author: Thomas Förster
+date: 2023-09-21
+date-format: DD.MM.YYYY
+institute: FWCC @ HZDR
+format:
+  revealjs:
+    theme: ./custom/themes/slides.scss
+    transition: none
+    transition-speed: fast
+    slide-number: c
+    width: 724
+    heigth: 496
+    show-notes: false
+    html-math-method: katex
+    toc: false
+    menu: false
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    citation-hover: true
+    footnote-hover: true
+bibliography: ./ref.bib
+logo: ./custom/images/logo-rse-hzdr.svg
+footer: <a href=https://events.hifis.net/category/123/>RSE Meetup 21.09.2023 @ HZDR</a>
+# <!-- https://events.hifis.net/event/826/ -->
+---
+
+
+## Agenda 
+
+::: notes
+  - A warm welcome the RSE Meetup 
+  - Today I give you the stage and we are talking about your challenges regarding software challenges
+- Today's topic is centered around Your challenges in software development
+- My name is Thomas Foerster and I am a member of FWCC
+- If you have not done so I kindly ask to get a name label
+- 4 parts
+- 
+- Afterwards 4 colleagues give us a brief insight in there SE challenges.
+- We will split up in the 4 respective groups depending on the 
+:::
+
+::: {.middle style="text-align:center"}
+Empty
+:::
+
+::: {style="width:100%; height:85%; margin-top:0.5rem;"}
+<!-- iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  src="https://events.hifis.net/event/826/#6-welcome"
+>
+</iframe-->
+:::
+
+
+## Check In
+
+::: big
+::: {.middle style="width:80%;"}
+- Group up in pairs of 2 (sb. unknown to you)
+  
+  ![](./images/grouping.gif){width=25% style="margin-left:20%;"}
+
+- Introduce yourself
+- Tell your counterpart in 2&nbsp;min what you have been doing prior to this meeting.
+:::
+:::
+
+
+## Short Lightning Talks 
+
+::: middle
+- **Project: Shotsheet** (5')
+  
+  ::: tiny
+  `Speaker: Kristin Tippey`
+  :::
+
+- **Snakemake Workflow Management at FWDC** (5')
+  
+  ::: tiny
+  `Speaker: Susann Hänsch`
+  :::
+
+- **Resolving Inhomogeneities between Software Stacks** (5')
+  
+  ::: tiny
+  `Speaker: Frederick Stein`
+  :::
+
+- **Project: TetraX** (5')
+  
+  ::: tiny
+  `Speaker: Lukas Körber`
+  :::
+:::
+
+
+## Discussion (15 min)
+
+::: notes
+- Now find the topic you are interested in 
+- 15 min group discussion
+- Afterwards I want that someone summarize what had been discussed.
+- Maybe deicide on the speaker in beforehand
+:::
+
+- Split up in groups (one for each talk)
+- Talk about the challenges in there respective projects.
+
+<center>
+::: {.middle style="margin-top:3rem; width:100%;"}
+![](./images/discussion.gif){width=40%}
+:::
+</center>
+
+## Summary
+
+::: {.middle .big style="line-height:2.5"}
+- Each group: summarize your discussion (~2 min)
+- What is your take away in one sentence?
+:::
+
+## 
+
+::: notes
+- Thank
+- If you want to become active in RSE
+- stay for a couple of minutes
+:::
+
+:::::: middle
+
+::: biggest
+Thank you.
+:::
+
+::: big
+Want to get active, let's have a talk after the meeting.
+:::
+::::::
+
